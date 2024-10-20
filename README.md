@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm currently learning programming and coding.
 - Mobile Development
 - Full-Stack Development
 
-## 🌱 I’m Currently Improving My Skills As a Developer
+## 🌱 I’m Currently Improving My Skills As a Web Developer
 
 - HTML, CSS, JavaScript, Python, PHP, Node.js, React, Tailwind CSS, SCSS, React Native
 
