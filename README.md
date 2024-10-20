@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Otar Ramishvili 👋
 
-<!--
-**oto-webdev/oto-webdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm currently learning programming and coding.
 
-Here are some ideas to get you started:
+## 🔭 Current Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Web Development
+- Mobile Development
+- Full-Stack Development
+
+## 🌱 I’m Currently Improving My Skills As a Developer
+
+- HTML, CSS, JavaScript, Python, PHP, Node.js, React, Tailwind CSS, SCSS, React Native
+
+## 💬 Ask Me About
+
+- React, Django, MERN Stack, Tailwind CSS, SCSS, Git
+
+## 📫 How to Reach Me
+
+- Email: [r.otowebdev@gmail.com](mailto:r.otowebdev@gmail.com)
+
+Feel free to explore my repositories and reach out if you'd like to connect!
