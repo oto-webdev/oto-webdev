@@ -16,6 +16,13 @@ Welcome to my GitHub profile! I'm currently learning programming
 
 - Web Development
 
+## 🚀 Skills
+- **Languages**: Python, JavaScript, PHP
+- **Frameworks**: Django, Node.js, React
+- **Databases**: MySQL, MongoDB, SQLite
+- **Tools**: Git, GitHub
+- **Styling**: HTML, CSS, SCSS, Bootstrap, Tailwind CSS
+
 ## 📫 How to Reach Me
 
 - Email: [r.otowebdev@gmail.com](mailto:r.otowebdev@gmail.com)
