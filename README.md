@@ -10,6 +10,8 @@ Welcome to my GitHub profile! I'm currently learning programming
 
 ## 🌱 I’m Currently Improving My Skills As a Web Developer
 
+- MernStack, React-Native
+
 ## 💬 Ask Me About
 
 - Web Development
