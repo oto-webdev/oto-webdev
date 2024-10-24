@@ -1,20 +1,18 @@
 # Hi there, I'm Otar Ramishvili 👋
 
-Welcome to my GitHub profile! I'm currently learning programming and coding.
+Welcome to my GitHub profile! I'm currently learning programming
 
 ## 🔭 Current Interests
 
+- Full-Stack Development
 - Web Development
 - Mobile Development
-- Full-Stack Development
 
 ## 🌱 I’m Currently Improving My Skills As a Web Developer
 
-- HTML, CSS, JavaScript, Python, PHP, Node.js, React, Tailwind CSS, SCSS, React Native
-
 ## 💬 Ask Me About
 
-- React, Django, MERN Stack, Tailwind CSS, SCSS, Git
+- Web Development
 
 ## 📫 How to Reach Me
 
