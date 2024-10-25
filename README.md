@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm currently learning programming
 - **Frameworks**: Django, Node.js, React
 - **Databases**: MySQL, MongoDB, SQLite
 - **Tools**: Git, GitHub
-- **Styling**: HTML, CSS, SCSS, Bootstrap5, Tailwind CSS
+- **Styling**: HTML, CSS, SCSS, Tailwind CSS
 
 ## 📫 How to Reach Me
 
