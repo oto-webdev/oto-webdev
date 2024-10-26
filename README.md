@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm currently learning programming
 ## 🚀 Skills
 - **Languages**: Python, JavaScript, PHP
 - **Frameworks**: Django, Node.js, React
-- **Databases**: MySQL, MongoDB, SQLite
+- **Databases**: MySQL, MongoDB
 - **Tools**: Git, GitHub
 - **Styling**: HTML, CSS, SCSS, Tailwind CSS
 
