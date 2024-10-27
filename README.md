@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm currently learning programming / coding
 
 ## 🚀 Skills
 
-- **Languages**: Python, JavaScript, PHP
+- **Languages**: Python, JavaScript
 - **Frameworks**: Django, Node.js
 - **Databases**: MySQL, MongoDB
 - **Tools**: Git, GitHub
