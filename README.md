@@ -9,13 +9,16 @@ Welcome to my GitHub profile! I'm currently learning programming / coding at Nov
 
 ## 🌱 I’m Currently Improving My Skills As a Web Developer
 
+- MernStack
+- React Native
+
 ## 🚀 Skills
 
-- **Languages**: Python, JavaScript
-- **Frameworks**: Django, Node.js
+- **Languages**: Html, PHP, JavaScript, Python, basics of Go and TypeScript
+- **Frameworks**: React, Vue, Node.js, Django, Laravel, React Native
 - **Databases**: MySQL, MongoDB
 - **Tools**: Git, GitHub
-- **Styling**: HTML, CSS, SCSS, Tailwind CSS
+- **Styling**: CSS, SCSS, Taiwlind, Bootstrap5
 
 ## 📫 How to Reach Me
 
