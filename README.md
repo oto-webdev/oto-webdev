@@ -15,10 +15,10 @@ Welcome to my GitHub profile! I'm currently learning programming / coding at Nov
 ## 🚀 Skills
 
 - **Languages**: Html, PHP, JavaScript, Python
-- **Frameworks**: React, Node.js, Django, React Native
+- **Frameworks**: React, Express, Django
 - **Databases**: MySQL, MongoDB
-- **Tools**: Git, GitHub
-- **Styling**: CSS, Taiwlind
+- **Tools**: Git, GitHub, Vercel, Netlify
+- **Styling**: SCSS, Taiwlind
 
 ## 📫 How to Reach Me
 
