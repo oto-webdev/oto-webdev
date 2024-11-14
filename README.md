@@ -1,6 +1,6 @@
 # Hi there, I'm Otar Ramishvili 👋
 
-Welcome to my GitHub profile! I'm currently learning programming / coding at Novatori
+Welcome to my GitHub profile! I'm currently learning programming at Novatori
 
 ## 🔭 Current Interests
 
@@ -9,19 +9,19 @@ Welcome to my GitHub profile! I'm currently learning programming / coding at Nov
 
 ## 🌱 I’m Currently Improving My Skills As a Web Developer
 
-- MernStack
-- Django and React
+- Mern Stack
+- Django + React
 - React Native
 
 ## 🚀 Skills
 
 - **Languages**: Html, PHP, JavaScript, Python
-- **Frameworks**: React, Express, Django
+- **Frameworks**: React, Vue, Node, Express, Django, Laravel
 - **Databases**: MySQL, MongoDB
-- **Tools**: Git, GitHub, Vercel, Netlify
-- **Styling**: SCSS, Taiwlind
-
-## 📫 How to Reach Me
+- **Tools**: Git & GitHub, Vercel, Netlify
+- **Styling**: SCSS/SASS, Taiwlind, Bootstrap5
+-
+- ## 📫 How to Reach Me
 
 - Email: [r.otowebdev@gmail.com](mailto:r.otowebdev@gmail.com)
 
