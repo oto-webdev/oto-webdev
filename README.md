@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm currently learning programming at Novatori
 - **Databases**: MySQL, MongoDB
 - **Tools**: Git & GitHub, Vercel, Netlify
 - **Styling**: SCSS/SASS, Taiwlind, Bootstrap5
--
+  
 - ## 📫 How to Reach Me
 
 - Email: [r.otowebdev@gmail.com](mailto:r.otowebdev@gmail.com)
