@@ -14,11 +14,11 @@ Welcome to my GitHub profile! I'm currently learning programming at Novatori
 
 ## 🚀 Skills
 
-- **Languages**: Html, PHP, JavaScript, Python
-- **Frameworks**: React, Vue, Node, Express, Django, Laravel
-- **Databases**: MySQL, MongoDB
-- **Tools**: Git & GitHub, Vercel, Netlify
-- **Styling**: SCSS/SASS, Taiwlind, Bootstrap5
+- **Languages**: JavaScript
+- **Frameworks**: React, Node
+- **Databases**: MongoDB
+- **Tools**: Git
+- **Styling**: Taiwlind
   
 - ## 📫 How to Reach Me
 
