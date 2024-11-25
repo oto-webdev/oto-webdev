@@ -5,12 +5,12 @@ Welcome to my GitHub profile! I'm currently learning programming at Novatori
 ## 🔭 Current Interests
 
 - Full-Stack Development
-- Mobile Development
+- App Development
 
 ## 🌱 I’m Currently Improving My Skills As a Web Developer
 
-- Mern Stack
-- React Native
+- MernStack
+- React-Native
 
 ## 🚀 Skills
 
@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm currently learning programming at Novatori
 - **Tools**: Git
 - **Styling**: Taiwlind
   
-- ## 📫 How to Reach Me
+## 📫 How to Reach Me
 
 - Email: [r.otowebdev@gmail.com](mailto:r.otowebdev@gmail.com)
 
