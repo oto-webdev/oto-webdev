@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm currently learning programming at Novatori
 ## 🌱 I’m Currently Improving My Skills As a Web Developer
 
 - MernStack
-- React-Native
 
 ## 🚀 Skills
 
