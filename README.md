@@ -5,9 +5,8 @@ Welcome to my GitHub profile! I'm currently learning programming at Novatori
 ## 🔭 Current Interests
 
 - Full-Stack Development
-- App Development
 
-## 🌱 I’m Currently Improving My Skills As a Web Developer
+## 🌱 I’m Currently Improving My Skills As a Mern Stack Developer
 
 - MernStack
 
