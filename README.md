@@ -1,25 +1,20 @@
 # Hi there, I'm Otar Ramishvili 👋
 
-Welcome to my GitHub profile! I'm currently learning programming at Novatori
+Welcome to my GitHub profile! I'm currently learning programming at **Novatori**.
 
 ## 🔭 Current Interests
+- **Backend Development**
+- **Mobile Development**
 
-- Full Stack Development
-
-## 🌱 I’m Currently Improving My Skills As a Mern Stack Developer
-
-- Mern Stack
+## 🌱 I’m Currently Improving My Skills as a MERN Stack Developer
+- **MERN Stack** (MongoDB, Express, React, Node)
 
 ## 🚀 Skills
+- **Languages**: JavaScript, TypeScript
+- **Frameworks**: React, Node.js, Express
+- **Databases**: MongoDB, MySQL
+- **Tools**: Git, REST API, GraphQL, Zustand, Redux Toolkit
+- **Styling**: Tailwind CSS, SCSS
 
-- **Languages**: JavaScript
-- **Frameworks**: React, Node
-- **Databases**: MongoDB
-- **Tools**: Git
-- **Styling**: Taiwlind
-  
-## 📫 How to Reach Me
-
-- Email: [r.otowebdev@gmail.com](mailto:r.otowebdev@gmail.com)
-
-Feel free to explore my repositories and reach out if you'd like to connect!
+📫 How to Reach Me
+Email: r.otowebdev@gmail.com
