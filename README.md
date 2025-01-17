@@ -12,9 +12,9 @@ Welcome to my GitHub profile! I'm currently learning programming at **Novatori**
 ## 🚀 Skills
 - **Languages**: JavaScript, TypeScript
 - **Frameworks**: React, Node.js, Express
-- **Databases**: MongoDB, MySQL
-- **Tools**: Git, REST API, GraphQL, Zustand, Redux Toolkit, FireBase
-- **Styling**: Tailwind CSS, SCSS
+- **Databases**: MongoDB
+- **Tools**: Git
+- **Styling**: Tailwind CSS
 
 📫 How to Reach Me
 Email: r.otowebdev@gmail.com
