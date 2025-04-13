@@ -3,11 +3,10 @@
 🚀 **Full-Stack Developer 
 
 ### **🛠 Tech Stack:**  
-- **Backend:** Node.js, Express.js, MongoDB, REST API  
-- **Frontend:** React.js, Next.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js, MongoDB, REST API
+- **Frontend:** React.js, Next.js, Tailwind CSS, Shadcn, Zustand  
 - **Mobile:** React Native (Learning)  
-- **Auth & Security:** JWT, Oauth (Learning), Otp (Learning), Role-Based Access  
-- **Payments:** Stripe Integration (Learning) 
+- **Auth & Security:** JWT, Oauth, Otp (Learning), Role-Based Access   
 
 ### **📫 Connect With Me:**  
 - **GitHub:** https://github.com/oto-webdev
