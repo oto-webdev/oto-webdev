@@ -1,7 +1,9 @@
 👋 Hi, I'm Otar Ramishvili
+
 🚀 Full-Stack Developer | Passionate about building performant, scalable, and modern web applications.
 
 🛠️ Tech Stack
+
 Frontend
 React.js • Next.js • Tailwind CSS • Shadcn/UI • Zustand
 
