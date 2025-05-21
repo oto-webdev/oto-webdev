@@ -1,13 +1,17 @@
-# Hi there, I'm Otar Ramishvili 👋  
+👋 Hi, I'm Otar Ramishvili
+🚀 Full-Stack Developer | Passionate about building performant, scalable, and modern web applications.
 
-🚀 **Full-Stack Developer 
+🛠️ Tech Stack
+Frontend
+React.js • Next.js • Tailwind CSS • Shadcn/UI • Zustand
 
-### **🛠 Tech Stack:**  
-- **Backend:** Node.js, Express.js, MongoDB, REST API
-- **Frontend:** React.js, Next.js, Tailwind CSS, Shadcn, Zustand  
-- **Mobile:** React Native (Learning)  
-- **Auth & Security:** JWT, Oauth, Otp (Learning), Role-Based Access   
+Backend
+Node.js • Express.js • MongoDB • RESTful APIs
 
-### **📫 Connect With Me:**  
-- **GitHub:** https://github.com/oto-webdev
-- **LinkedIn:** https://www.linkedin.com/in/otar-ramishvili-a773a3334
+Authentication & Security
+JWT • OAuth • OTP • Role-Based Access Control (RBAC)
+
+📬 Let's Connect
+GitHub: oto-webdev
+LinkedIn: Otar Ramishvili
+
